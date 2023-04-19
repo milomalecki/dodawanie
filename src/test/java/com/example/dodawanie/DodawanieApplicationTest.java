@@ -8,6 +8,6 @@ public class DodawanieApplicationTest {
     public void added() {
         DodawanieApplication dodawanieApplication=new DodawanieApplication();
         assertEquals(10,dodawanieApplication.added(5,5));
- 
+
     }
 }
